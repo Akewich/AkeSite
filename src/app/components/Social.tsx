@@ -5,19 +5,19 @@ import { FaFacebook, FaGithub, FaLinkedin, FaTwitter } from "react-icons/fa";
 const socials = [
   {
     icon: <FaLinkedin />,
-    path: "",
+    path: "https://www.linkedin.com/in/ekawich-turawan/",
   },
   {
     icon: <FaGithub />,
-    path: "",
+    path: "https://github.com/Akewich",
   },
   {
     icon: <FaFacebook />,
-    path: "",
+    path: "https://www.facebook.com/ekawich.turawan",
   },
   {
     icon: <FaTwitter />,
-    path: "",
+    path: "https://x.com/ekawich04s",
   },
 ];
 
