@@ -21,7 +21,7 @@ const socials = [
   },
 ];
 
-const Social = ({ containerStyles, iconStyles }: any) => {
+const Social = ({ containerStyles, iconStyles }: { containerStyles: string; iconStyles: string }) => {
   return (
     <div className={containerStyles}>
       {socials.map((item, index) => {

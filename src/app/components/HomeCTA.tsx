@@ -9,9 +9,9 @@ const HomeCTA = () => {
       <div className="container mx-auto">
         <div className="flex flex-col xl:flex-row items-center justify-between gap-8">
           <div className="flex flex-col gap-4 text-center xl:text-left">
-            <h2 className="h2 text-accent">Let's work together!</h2>
+            <h2 className="h2 text-accent">Let&apos;s work together!</h2>
             <p className="text-white/60 max-w-[600px]">
-              Have a project in mind basically? I'm available for freelance work
+              Have a project in mind basically? I&apos;m available for freelance work
               and open to new opportunities.
             </p>
           </div>

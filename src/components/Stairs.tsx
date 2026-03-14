@@ -1,4 +1,4 @@
-import { animate, motion } from "framer-motion";
+import { motion } from "framer-motion";
 import React from "react";
 
 const stairAnimation = {
@@ -14,7 +14,7 @@ const stairAnimation = {
 };
 
 // calculate th reverse
-const reverseIndex = (index: any) => {
+const reverseIndex = (index: number) => {
   const totalStep = 3;
   return totalStep - index - 1;
 };
