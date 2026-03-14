@@ -12,7 +12,7 @@ const Homepage = () => {
           <div className="text-center xl:text-left">
             <span className="text-xl">Software developer</span>
             <h1 className="h1 mb-6">
-              Hello I'm <br />
+              Hello I am <br />
             </h1>
             <TypeAnimation
               sequence={[
